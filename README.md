@@ -20,7 +20,9 @@ There are some simple classmethods that you can call that take care of everythin
 
 Credit
 ------
-When searching for how to implement this functionality, I found the sample code on [this site](http://cocoatutorial.grapewave.com/tag/lssharedfilelistcreate/) (now-defunct) to be most helpful.
+When searching for how to implement this functionality, I found the discussion on the following site (now-defunct) to be most helpful. Much of the code of this library is derived from there.
+
+   http://cocoatutorial.grapewave.com/tag/lssharedfilelistcreate/
 
 Todo
 ----
