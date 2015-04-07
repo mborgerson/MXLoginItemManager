@@ -22,7 +22,7 @@ Credit
 ------
 When searching for how to implement this functionality, I found the discussion on the following site (now-defunct) to be most helpful. Much of the code of this library is derived from there.
 
-   http://cocoatutorial.grapewave.com/tag/lssharedfilelistcreate/
+http://cocoatutorial.grapewave.com/tag/lssharedfilelistcreate/
 
 Todo
 ----
